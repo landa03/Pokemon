@@ -1,0 +1,11 @@
+D:\escuela\progra\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.exe
+D:\escuela\progra\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.deps.json
+D:\escuela\progra\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.runtimeconfig.json
+D:\escuela\progra\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.runtimeconfig.dev.json
+D:\escuela\progra\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.dll
+D:\escuela\progra\Pokedex\bin\Debug\netcoreapp3.1\Pokedex.pdb
+D:\escuela\progra\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.csprojAssemblyReference.cache
+D:\escuela\progra\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.AssemblyInfoInputs.cache
+D:\escuela\progra\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.AssemblyInfo.cs
+D:\escuela\progra\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.dll
+D:\escuela\progra\Pokedex\obj\Debug\netcoreapp3.1\Pokedex.pdb
